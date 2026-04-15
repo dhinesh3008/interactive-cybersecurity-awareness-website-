@@ -1,0 +1,9 @@
+Project: GitHub Workflow Practice
+Status: Initial Commit
+
+This is a sample text file created to demonstrate the git push and pull request process.
+The goal is to move this file from a local repository to a remote GitHub repository.
+
+--- NEW CHANGES BELOW ---
+Update: Added this line to test the Pull Request (PR) process. 
+This change will be pushed to a feature branch and then merged via PR.
